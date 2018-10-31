@@ -1,6 +1,6 @@
 ---
-title: First Post
 layout: post
+tittle: First Post
 ---
 
 #My First Post
